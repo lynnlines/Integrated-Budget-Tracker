@@ -1,0 +1,10 @@
+from sqlalchemy.orm import Session
+from app.db import session as db_session
+
+
+def get_db():
+    db = db_session.SessionLocal()
+    try:
+        yield db
+    finally:
+        db.close()

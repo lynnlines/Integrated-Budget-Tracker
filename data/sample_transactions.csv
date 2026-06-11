@@ -1,0 +1,8 @@
+date,payee,amount,currency,account_name,category
+2026-05-01,Starbucks,-450,USD,Personal Checking,Dining
+2026-05-03,ACME Corp,250000,USD,Personal Checking,Income:Salary
+2026-05-07,Whole Foods,-1234,USD,Personal Checking,Groceries
+2026-05-15,Uber,-800,USD,Personal Checking,Transport
+2026-06-02,Restaurant XYZ,-1200,USD,Personal Checking,Dining
+2026-06-10,Acme Refund,5000,USD,Personal Checking,Refund
+2026-06-20,Electric Co,-6500,USD,Personal Checking,Utilities
